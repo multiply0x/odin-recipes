@@ -1,6 +1,4 @@
 # odin-recipes
 The Odin Project - Project 1
 
-## Brief Introduction:
-Info
-## Skills Demonstrated:
+Live Project: https://github.com/multiply0x/odin-recipes
